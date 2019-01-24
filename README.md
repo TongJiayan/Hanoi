@@ -20,7 +20,7 @@
 
 ![image](https://github.com/TongJiayan/Hanoi/blob/master/images/6.png)
 
-## When you cho0se 9,then it turns to a game and it's your time to move pans to achieve the final goal.
+## When you choose 9,then it turns to a game and it's your time to move pans to achieve the final goal.
 
 ## More can be said,the speed pans move ,the begin position of pans and the goal position of pans all can be set by you.
 
